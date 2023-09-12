@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores03",
+            "request": "launch",
+            "mainClass": "Operadores03",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores04",
+            "request": "launch",
+            "mainClass": "Operadores04",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores05",
+            "request": "launch",
+            "mainClass": "Operadores05",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores06",
+            "request": "launch",
+            "mainClass": "Operadores06",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores07",
+            "request": "launch",
+            "mainClass": "Operadores07",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "SistemaSmartTv.Usuario",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "TerminalArgumentos.AboutMe",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "tipos-variaveis_4b5203d"
+        }
+    ]
+}
