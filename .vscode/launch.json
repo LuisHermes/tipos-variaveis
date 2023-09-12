@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFoor.ExemploFor",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "CaixaEletro.Escolar.PlanoOperadora",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "SistemadeMedida",
+            "request": "launch",
+            "mainClass": "CaixaEletro.Escolar.SistemadeMedida",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar03",
+            "request": "launch",
+            "mainClass": "CaixaEletro.Escolar.ResultadoEscolar03",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "CaixaEletro.Escolar.ResultadoEscolar",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico02",
+            "request": "launch",
+            "mainClass": "CaixaEletro.CaixaEletronico02",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletro.CaixaEletronico",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
