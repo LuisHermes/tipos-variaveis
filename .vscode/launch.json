@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploFoor.ExemploWhile",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploFoor.ExemploBreakContinue",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFroArray",
+            "request": "launch",
+            "mainClass": "ExemploFoor.ExemploFroArray",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "ExemploFoor.ExemploFor",
