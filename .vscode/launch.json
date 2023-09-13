@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "Contratar.ProcessoSeletivo",
+            "projectName": "tipos-variaveis_4b5203d"
+        },
+        {
+            "type": "java",
             "name": "ExemploWhile02",
             "request": "launch",
             "mainClass": "ExemploFoor.ExemploWhile02",
