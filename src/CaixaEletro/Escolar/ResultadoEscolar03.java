@@ -1,7 +1,5 @@
 package CaixaEletro.Escolar;
 
-import javax.sound.sampled.SourceDataLine;
-
 public class ResultadoEscolar03 {
     public static void main(String[] args) {
         

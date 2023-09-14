@@ -1,4 +1,4 @@
-import javax.print.DocFlavor.STRING;
+/*import javax.print.DocFlavor.STRING;
 
 public class TiposVariaveis {
 
@@ -20,3 +20,4 @@ public class TiposVariaveis {
             System.out.println(meuNome);
     }
 }
+*/

@@ -6,7 +6,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class ProcessoSeletivo {
 
 	public static void main(String[] args) {
-		
+		selecaoCandidatos();
 	}
 	
 		static void selecaoCandidatos() {
@@ -29,7 +29,7 @@ public class ProcessoSeletivo {
 			}
 		}
 		static double valorPretendido() {
-			return ThreadLocalRandom.current().nextDouble(1800,2200);
+			return ThreadLocalRandom.current().nextDouble(1800, 2200);
 		}
 	
 	static void analisarCantidato(double salarioPretendido) {
